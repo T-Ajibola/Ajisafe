@@ -1,7 +1,7 @@
 # MY BABY
 
-a<-15
-c<-25
-z<- (c-a)
+a= min (25, 10, 95)
+c= max (26, 21, 60)
 
-print z
+print(a)
+print(c)
